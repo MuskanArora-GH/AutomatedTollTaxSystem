@@ -8,7 +8,7 @@ Automated Toll Tax System using Number Plate Recognition is a comprehensive solu
 3. Open the `connection.py` file and modify the database connection settings to match your environment.
 4. Update the values of the database host, port, username, password, and database name to reflect your own database configuration.
 5. Save the changes in the `connection.py` file.
-6. Run the application using the command: `python main.py`.
+6. Run the application using the command: `python mainFile.py`.
 
 ## Usage
 
